@@ -1,0 +1,6 @@
+Step 1: cd to folder that contains source Vietlot
+  cd ..../viettlot/dist
+  
+  
+Step 2: 
+	java -jar Vietlott.jar (1 or 2)
